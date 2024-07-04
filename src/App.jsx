@@ -5,7 +5,7 @@ import Comprehensive from "./components/Comprehensive/Comprehensive"
 import Footer from "./components/Footer/Footer"
 import Frequently from "./components/Frequently/Frequently"
 import Health from "./components/Health/Health"
-import NavBar from "./components/NavBer/NavBar"
+import NavBar from "./components/Navber/NavBar"
 import Solutions from "./components/Solutions/Solutions"
 
 function App() {
